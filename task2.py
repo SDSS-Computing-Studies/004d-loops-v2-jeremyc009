@@ -1,5 +1,5 @@
 nameList=("Lebron", "Kobe","Michael","Shaq","Dennis",)
-name=input("Enter a name: ")
+name=(input("Enter a name: ").strip())
 value=name in nameList
 for name in nameList:
     if value==True:
