@@ -14,7 +14,7 @@ for i in range(1,num+1):
     c=d
     
     
-print(d)
+print("the sum of the series is "+str(d))
 
     
     
