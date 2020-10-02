@@ -1,4 +1,4 @@
-nameList=("Lebron", "Kobe","Michael","Shaq","Dennis","Elmo")
+nameList=("Lebron", "Kobe","Michael","Shaq","Dennis",)
 name=input("Enter a name: ")
 value=name in nameList
 for name in nameList:
