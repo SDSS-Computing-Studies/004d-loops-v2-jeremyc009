@@ -5,6 +5,5 @@ count1=0
 wid1=wid
 leng1=leng
 while (wid<10 and leng<10)and count<1:
-    
 
-    
+
